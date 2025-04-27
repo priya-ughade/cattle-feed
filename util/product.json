@@ -1,0 +1,60 @@
+{
+  "ShopName": "",
+  "productDetails": [
+    {
+      "productId": "1",
+      "name": "NutriGrow",
+      "type": "Pellet",
+      "Description": "High-protein feed",
+      "protein": 18,
+      "fat": 4.5,
+      "fiber": 12,
+      "price": 25,
+      "stockQty": 500
+    },
+    {
+      "productId": "1",
+      "name": "NutriGrow",
+      "type": "Pellet",
+      "Description": "High-protein feed",
+      "protein": 18,
+      "fat": 4.5,
+      "fiber": 12,
+      "price": 25,
+      "stockQty": 500
+    },
+    {
+      "productId": "2",
+      "name": "NutriGrow2",
+      "type": "Pellet2",
+      "Description": "High-protein feed2",
+      "protein": 182,
+      "fat": 4.52,
+      "fiber": 122,
+      "price": 252,
+      "stockQty": 5002
+    },
+    {
+      "productId": "3",
+      "name": "NutriGrow3",
+      "type": "Pellet3",
+      "Description": "High-protein feed3",
+      "protein": 183,
+      "fat": 4.53,
+      "fiber": 123,
+      "price": 253,
+      "stockQty": 5003
+    },
+    {
+      "productId": "3",
+      "name": "NutriGrow3",
+      "type": "Pellet3",
+      "Description": "High-protein feed3",
+      "protein": 183,
+      "fat": 4.53,
+      "fiber": 123,
+      "price": 253,
+      "stockQty": 5003
+    }
+  ]
+}
